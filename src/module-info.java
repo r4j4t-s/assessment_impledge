@@ -1,0 +1,2 @@
+module assessment_impledge {
+}
